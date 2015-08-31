@@ -1,0 +1,5 @@
+name,target,targettype,linked pubs
+SITE 1 Live,uploadlive.server,Live,700
+SITE 1 Staging,uploadstaging.server,Staging,700
+SITE 2 Live,uploadlive.server,Live,710
+SITE 2 Staging,uploadstaging.server,Staging,710
